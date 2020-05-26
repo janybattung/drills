@@ -1,0 +1,7 @@
+main {
+    box-sizing: border-box;
+    width: 50%;
+    margin: 0 auto;
+    background-color: blue;
+    padding: 50px;
+}
